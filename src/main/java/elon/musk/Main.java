@@ -15,5 +15,11 @@ public class Main {
 
 //
         System.out.println("这是master第二次提交");
+
+        //
+        System.out.println("i am branch hot-fix");
+        System.out.println("hello everyone");
+
+
     }
 }
