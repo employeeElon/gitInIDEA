@@ -21,5 +21,9 @@ public class Main {
 
 
         System.out.println("项目以及提交到gitHub上来了 我想试一下 push功能");
+
+        //-------------------------------
+        System.out.println("我是github上的master 我想让localIDEA试一下pull所以随便说几句");
+
     }
 }
