@@ -18,5 +18,8 @@ public class Main {
 
 
         System.out.println("这是master 我想制造冲突");
+
+
+        System.out.println("项目以及提交到gitHub上来了 我想试一下 push功能");
     }
 }
