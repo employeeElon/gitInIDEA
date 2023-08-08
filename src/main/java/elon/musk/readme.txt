@@ -1,0 +1,2 @@
+这是一个在github上被master创建的文件
+hello
